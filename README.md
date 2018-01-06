@@ -12,7 +12,7 @@ The Robocup Rescue Simulation Platform is a comprehensive simulation environment
 
 ![enter image description here](http://roborescue.sourceforge.net/web/2017/images/agent-award.jpg)
 
-                  2nd Place in RoboCup Rescue Agent Simulation 
+        2nd Place in RoboCup Rescue Agent Simulation 
                           Nagoya, Japan - July 2017 
 
 
